@@ -1,0 +1,2 @@
+# gp-resolusi
+Belajar Github
